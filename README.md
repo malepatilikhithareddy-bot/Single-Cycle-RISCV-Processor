@@ -119,7 +119,7 @@ Used for functional verification and simulation of the processor.
 
 ## Processor Workflow
 
-![Workflow](images/riscv_processor_workflow.png)
+![Workflow](images/RISCV_Processor_Workingflow.png)
 
 ---
 
